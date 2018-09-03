@@ -1,0 +1,3 @@
+Hashcat command to crack the second hash:
+
+hashcat64.exe -m100 -O -a 3 ..\contests\netmux\netmux.hsh -1 IA9GV8oyILM.!03WKH+epP{TxJz3hbu\? q$*?1?1?1?1?1?1?1?1)wc71997
